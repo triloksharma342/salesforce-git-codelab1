@@ -61,7 +61,7 @@ public class SFDCStopTeamController {
             new Contributor(
                 'salesforce 32 146',
                 'https://avatars3.githubusercontent.com/u/66051548?s=400&v=4',
-                Date.newInstance(2021, 09, 25),
+                Date.newInstance(2021, 09, 30),
                 'https://www.p.force.com'
             )
         );
